@@ -1,6 +1,8 @@
 #include<string>
 #include<vector>
-// Copyright 2018 SichunHao sichunh@bu.edu
+//reference 
+//blog.csdn.net/langmanqishizaijia/article/details/51086700?utm_source=copy 
+
 typedef string BigInt;
 BigInt multiply_int(const BigInt &a, const BigInt &b) {
         string res = "";
