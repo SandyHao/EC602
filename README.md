@@ -1,2 +1,2 @@
 # EC602
-program class practice C++, python, bash
+program class practice C++, python, shell
